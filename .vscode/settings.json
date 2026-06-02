@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b549ed89-a52b-4654-9804-c1ac1bb24d6b/resourceGroups/cms-rg/providers/Microsoft.Web/sites/cms-logeshwar",
+    "appService.deploySubpath": "."
+}

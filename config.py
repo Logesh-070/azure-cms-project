@@ -10,7 +10,7 @@ class Config(object):
     BLOB_CONTAINER = 'images'
 
     SQL_SERVER = 'cmsserverlogeshwar.database.windows.net'
-    SQL_DATABASE = 'csmdb'
+    SQL_DATABASE = 'cmsdb'
     SQL_USER_NAME = 'cmsadmin'
     SQL_PASSWORD = 'CMS4dmin123!'
     # Below URI may need some adjustments for driver version, based on your OS, if running locally
